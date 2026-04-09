@@ -75,13 +75,13 @@ export default function PlatformWalkthrough() {
           {/* Right Column: Stacked Buttons */}
           <div className="w-full min-[741px]:w-72 flex flex-col gap-3">
             <Link
-              href="/signup"
+              href=" "
               className="w-full bg-[#10b981] hover:bg-[#059669] text-white text-center font-bold py-3.5 rounded-lg transition-colors shadow-sm"
             >
               Get Started
             </Link>
             <Link
-              href="/login"
+              href=" "
               className="w-full bg-white border border-gray-200 hover:bg-gray-50 text-black text-center font-bold py-3.5 rounded-lg transition-colors"
             >
               Sign In
