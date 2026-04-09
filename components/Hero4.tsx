@@ -57,7 +57,7 @@ export default function HowItWorks() {
         
         <div className="flex justify-center">
           <Link
-            href="/signup"
+            href=" "
             className="inline-flex items-center justify-center bg-[#10b981] hover:bg-[#059669] text-white font-bold py-3.5 px-12 rounded-lg shadow-sm transition-all"
           >
             Sign Up <span className="ml-2">→</span>
