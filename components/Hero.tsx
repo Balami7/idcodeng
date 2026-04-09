@@ -42,13 +42,13 @@ export default function Hero() {
               
               <div className="flex flex-col sm:flex-row gap-4">
                 <a
-                  href="/contact"
+                  href=" "
                   className="inline-block bg-emerald-600 text-white font-semibold px-8 py-4 rounded-lg hover:bg-emerald-700 transition-colors text-center"
                 >
                   Get in Touch
                 </a>
                 <a
-                  href="/services"
+                  href=" "
                   className="inline-block border-2 border-emerald-600 text-emerald-600 font-semibold px-8 py-4 rounded-lg hover:bg-emerald-50 transition-colors text-center"
                 >
                   Learn More
