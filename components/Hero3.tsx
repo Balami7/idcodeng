@@ -10,7 +10,7 @@ const logos = [
 
 export default function PartnerScroll() {
   return (
-    <section className="bg-white py-16 md:py-0 border-t-5 border-emerald-600 border-b-5 border-emerald-600 overflow-hidden">
+    <section className="bg-white py-16 md:py-0 border-t-2 border-emerald-600 border-b-2 border-emerald-600 overflow-hidden">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="relative flex overflow-hidden">
           <div className="flex animate-infinite-scroll whitespace-nowrap py-6 md:py-8">
