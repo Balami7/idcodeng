@@ -102,9 +102,9 @@ export default function Footer() {
               </div>
             </div>
             <div className="flex space-x-5 mt-6">
-              <a href="#" className="text-gray-400 hover:text-emerald-400 transition-colors"><FiFacebook className="h-6 w-6" /></a>
-              <a href="#" className="text-gray-400 hover:text-emerald-400 transition-colors"><FiTwitter className="h-6 w-6" /></a>
-              <a href="#" className="text-gray-400 hover:text-emerald-400 transition-colors"><FiInstagram className="h-6 w-6" /></a>
+              <a href=" " className="text-gray-400 hover:text-emerald-400 transition-colors"><FiFacebook className="h-6 w-6" /></a>
+              <a href=" " className="text-gray-400 hover:text-emerald-400 transition-colors"><FiTwitter className="h-6 w-6" /></a>
+              <a href="https://www.instagram.com/idcode.ng/" className="text-gray-400 hover:text-emerald-400 transition-colors"><FiInstagram className="h-6 w-6" /></a>
             </div>
           </div>
 
