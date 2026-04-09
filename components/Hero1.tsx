@@ -6,7 +6,7 @@ export default function VerificationSection() {
       <div className="mx-auto max-w-7xl px-6 lg:px-8 relative">
         
        
-        <div className="absolute left-0 right-0 top-12.5 min-[741px]:top-6 min-[1011px]:top-15 h-1.5 bg-green-500 z-10" />
+        <div className="absolute left-0 right-0 top-12.5 min-[741px]:top-6 min-[1011px]:top-15 h-0.5 bg-green-500 z-10" />
 
         <div className="flex flex-col min-[741px]:flex-row items-center justify-center gap-30 min-[1011px]:gap-50 relative z-20">
           
